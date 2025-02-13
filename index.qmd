@@ -1,0 +1,21 @@
+---
+title: "Vibha's STA 9750 Website"
+---
+
+Hey y'all! I'm Vibha and I look forward to learning with everyone during the semester. 
+
+A few things about me, in no particular order:
+- My academic background is in anthropology and sociology.
+- I have a phobia of birds and am especially terrified of pigeons. 
+- I love exploring various neighborhoods of NYC in terms of their histories and the often forgotten and unnoticed elements of these areas, including older roads, buildings, and hidden waterways.
+- The two points above often come into conflict, but I persist and give great walking tours of many NYC areas despite the pigeons!
+- I am an adjunct at Queens College.
+- I have a basic knowledge of statistics and data analytics, but I'm taking classes at Baruch to improve in these areas and (re)learn R and python.
+- My research interests are mainly public health and climate change, and I would love to work on these for the semester project.
+
+```{r}
+#| include: false
+1+1
+```
+--------------
+Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
