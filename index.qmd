@@ -13,6 +13,9 @@ Hey y'all! I'm Vibha and I look forward to learning with everyone during the sem
   + I am an adjunct at Queens College.
   + I have a basic knowledge of statistics and data analytics, but I'm taking classes at Baruch to improve in these areas and (re)learn R and python.
   + My research interests are mainly public health and climate change, and I would love to work on these for the semester project.
+  + I like elephants.
+  
+  ![Caption](elephant.png)
 
 
 ```{r}
