@@ -15,7 +15,6 @@ A few things about me, in no particular order:
   * My research interests are mainly public health and climate change, and I would love to work on these for the semester project.
 
 
-
 ```{r}
 #| include: false
 1+1
